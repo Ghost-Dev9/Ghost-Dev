@@ -1,6 +1,6 @@
 # 
 ### Hi there, 
-### I'm Ghost-Dev from DZ 👋
+### I'm Faci Sidali from Prime-DevIT 👋
 
 - 🔭 I’m currently working on Ghost-Dev as a Web develloper.
 - 🌱 I’m currently learning Motion Design.
